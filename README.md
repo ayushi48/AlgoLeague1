@@ -4,7 +4,7 @@
 
 ### 🔥 Practice • Compete • Improve 🔥
 
-<img src="https://img.shields.io/badge/⚡%20Real--Time%20Code%20Execution-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡%20Real--Time%20Code%20Execution-6C63FF?style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/🏆%20Competitive%20Programming-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/📊%20Performance%20Analytics-00C896?style=for-the-badge" />
 
